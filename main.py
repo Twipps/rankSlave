@@ -1,0 +1,3 @@
+import botFunction
+
+botFunction.runDiscordBot()
